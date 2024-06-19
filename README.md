@@ -19,6 +19,6 @@ Scientific Reports, 2024. <b>14</b>(1): p. 6442. doi: <a href="http://dx.doi.org
   </p>
 <h3>Metadata layout</h3>
 <p>Sample/sequence metadata files were in the format depicted below</p>
-<img src="metadata.png" alt="metadata" />
+<img src="images/metadata.png" alt="metadata" />
 
 </body>
