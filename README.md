@@ -6,7 +6,7 @@
   Stuart, J., et al., <i> A comparison of two gene regions for assessing community composition of eukaryotic marine microalgae from coastal ecosystems</i>. 
 Scientific Reports, 2024. <b>14</b>(1): p. 6442. doi: <a href="http://dx.doi.org/10.1038/s41598-024-56993-4">10.1038/s41598-024-56993-4</a> 
 </p>
-<img src="graphicalAbstarct.jpg" alt="graphicalAbstarct" />
+<img src="images/graphicalAbstract.jpg" alt="graphicalAbstarct" />
 
 <h2> Data types and file layout </h2>
 <p>
