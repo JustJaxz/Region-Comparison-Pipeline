@@ -21,4 +21,17 @@ Scientific Reports, 2024. <b>14</b>(1): p. 6442. doi: <a href="http://dx.doi.org
 <p>Sample/sequence metadata files were in the format depicted below</p>
 <img src="images/metadata.png" alt="metadata" />
 
+<h2>Overhang adaptors</h2>
+<p>Primer pairs used for this paper were each modified for Illumina sequencing with the addition of overhang adaptors. The Illumina overhang adapter sequences to be added to locus‐specific sequences are as follows.
+  <br>
+  <br>
+  <b>Forward overhang:</b><br>
+5’ TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG ‐ [locus specific sequence] <br>
+<b>Reverse overhang:</b><br>
+5’ GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG ‐ [locus specific sequence] <br>
+  <br>
+Full documentation can be found in the 
+  <a href="http://support.illumina.com/documents/documentation/chemistry_documentation/16s/16s-metagenomic-library-prep-guide-15044223-b.pdf">Illumina metagenomic library prep guide</a> 
+  </p>
+
 </body>
